@@ -1,0 +1,32 @@
+{
+    "name": "web-dev-extension-pack",
+    "displayName": "Web Dev Extension Pack",
+    "description": "Pacote de extensões básicas para iniciantes em desenvolvimento Web",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "abusaidm.html-snippets", 
+        "akamud.vscode-theme-onedark", 
+        "akamud.vscode-theme-onelight", 
+        "bungcip.better-toml", 
+        "capaj.vscode-standardjs-snippets", 
+        "chenxsan.vscode-standardjs", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "donjayamanne.githistory", 
+        "EditorConfig.EditorConfig", 
+        "leizongmin.node-module-intellisense", 
+        "numso.prettier-standard-vscode", 
+        "octref.vetur", 
+        "PKief.material-icon-theme", 
+        "ritwickdey.LiveServer", 
+        "shd101wyy.markdown-preview-enhanced", 
+        "TimonVS.ReactSnippetsStandard", 
+        "vscode-icons-team.vscode-icons", 
+        "Zignd.html-css-class-completion"
+    ]
+}
