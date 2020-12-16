@@ -2,31 +2,49 @@
     "name": "web-dev-extension-pack",
     "displayName": "Web Dev Extension Pack",
     "description": "Pacote de extensões básicas para iniciantes em desenvolvimento Web",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "jesielviana",
     "engines": {
         "vscode": "^1.52.0"
+    },
+    "icon": "logo.png",
+    "galleryBanner": {
+        "color": "#030518",
+        "theme": "dark"
+    },
+    "keywords": [
+        "web",
+        "html",
+        "css",
+        "styled-components",
+        "react",
+        "vue",
+        "javascript"
+    ],
+    "repository": {
+        "url": "https://github.com/jesielviana/web-dev-extension-pack"
+    },
+    "homepage": "https://github.com/jesielviana/web-dev-extension-pack",
+    "bugs": {
+        "url": "https://github.com/jesielviana/web-dev-extension-pack/issues"
     },
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "abusaidm.html-snippets", 
-        "akamud.vscode-theme-onedark", 
-        "akamud.vscode-theme-onelight", 
-        "bungcip.better-toml", 
-        "capaj.vscode-standardjs-snippets", 
-        "chenxsan.vscode-standardjs", 
-        "CoenraadS.bracket-pair-colorizer", 
-        "donjayamanne.githistory", 
-        "EditorConfig.EditorConfig", 
-        "leizongmin.node-module-intellisense", 
-        "numso.prettier-standard-vscode", 
-        "octref.vetur", 
-        "PKief.material-icon-theme", 
-        "ritwickdey.LiveServer", 
-        "shd101wyy.markdown-preview-enhanced", 
-        "TimonVS.ReactSnippetsStandard", 
-        "vscode-icons-team.vscode-icons", 
+    "extensionPack": [
+        "ecmel.vscode-html-css",
+        "akamud.vscode-theme-onedark",
+        "akamud.vscode-theme-onelight",
+        "bungcip.better-toml",
+        "chenxsan.vscode-standardjs",
+        "CoenraadS.bracket-pair-colorizer",
+        "donjayamanne.githistory",
+        "EditorConfig.EditorConfig",
+        "numso.prettier-standard-vscode",
+        "octref.vetur",
+        "PKief.material-icon-theme",
+        "shd101wyy.markdown-preview-enhanced",
+        "TimonVS.ReactSnippetsStandard",
         "Zignd.html-css-class-completion"
     ]
 }
