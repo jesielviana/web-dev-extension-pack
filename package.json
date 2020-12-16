@@ -1,16 +1,16 @@
 {
     "name": "web-dev-extension-pack",
     "displayName": "Web Dev Extension Pack",
-    "description": "Pacote de extensões básicas para iniciantes em desenvolvimento Web",
-    "version": "1.0.0",
+    "description": "Pacote de extensões básicas para desenvolvimento Web com HTML, CSS, Javascript, Vue.js e React",
+    "version": "1.0.3",
     "publisher": "jesielviana",
     "engines": {
         "vscode": "^1.52.0"
     },
     "icon": "logo.png",
     "galleryBanner": {
-        "color": "#030518",
-        "theme": "dark"
+        "color": "#fafafa",
+        "theme": "light"
     },
     "keywords": [
         "web",
