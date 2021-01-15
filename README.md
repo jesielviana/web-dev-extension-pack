@@ -24,6 +24,7 @@ Material do curso: [https://jesielviana.github.io/web-dev/](https://jesielviana.
 
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - Autocomplete para os nomes de classes CSS nos elementos HTML.
+- [Vue](https://marketplace.visualstudio.com/items?itemName=znck.vue) - Extensão para produtividade com [Vue.js](https://br.vuejs.org/)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Ferramentas [Vue.js](https://br.vuejs.org/) para VS Code.
 - [React Standard Style code snippets](https://marketplace.visualstudio.com/items?itemName=TimonVS.ReactSnippetsStandard) - Contém snippets de código para [React](https://pt-br.reactjs.org/) seguindo as diretrizes do [JavaScript Standard Style](https://standardjs.com/)
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)

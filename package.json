@@ -2,7 +2,7 @@
     "name": "web-dev-extension-pack",
     "displayName": "Web Dev Extension Pack",
     "description": "Pacote de extensões básicas para desenvolvimento Web com HTML, CSS, Javascript, Vue.js e React",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "publisher": "jesielviana",
     "engines": {
         "vscode": "^1.52.0"
@@ -42,6 +42,7 @@
         "EditorConfig.EditorConfig",
         "numso.prettier-standard-vscode",
         "octref.vetur",
+        "znck.vue",
         "PKief.material-icon-theme",
         "shd101wyy.markdown-preview-enhanced",
         "TimonVS.ReactSnippetsStandard",
