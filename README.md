@@ -17,7 +17,7 @@ Material do curso: [https://jesielviana.github.io/web-dev/](https://jesielviana.
 
 ##### Extensões para formatação, estilo e validação de código
 
-- [StandardJS - JavaScript Standard Style](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs) - Integra o [JavaScript Standard Style](https://standardjs.com/) no VSCode.
+- [StandardJS - JavaScript Standard Style](https://marketplace.visualstudio.com/items?itemName=standard.vscode-standard) - Integra o [JavaScript Standard Style](https://standardjs.com/) no VSCode.
 - [Prettier-Standard - JavaScript formatter](https://marketplace.visualstudio.com/items?itemName=numso.prettier-standard-vscode) - Formata seu Javascript usando [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) e [Standard](https://standardjs.com/)
 
 ##### Extensões para linguages e frameworks

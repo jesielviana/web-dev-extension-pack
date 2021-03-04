@@ -2,10 +2,10 @@
     "name": "web-dev-extension-pack",
     "displayName": "Web Dev Extension Pack",
     "description": "Pacote de extensões básicas para desenvolvimento Web com HTML, CSS, Javascript, Vue.js e React",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "jesielviana",
     "engines": {
-        "vscode": "^1.52.0"
+        "vscode": "^1.53.0"
     },
     "icon": "logo.png",
     "galleryBanner": {
@@ -36,7 +36,7 @@
         "akamud.vscode-theme-onedark",
         "akamud.vscode-theme-onelight",
         "bungcip.better-toml",
-        "chenxsan.vscode-standardjs",
+        "standard.vscode-standard",
         "CoenraadS.bracket-pair-colorizer",
         "donjayamanne.githistory",
         "EditorConfig.EditorConfig",
