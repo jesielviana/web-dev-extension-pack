@@ -2,10 +2,10 @@
     "name": "web-dev-extension-pack",
     "displayName": "Web Dev Extension Pack",
     "description": "Pacote de extensões básicas para desenvolvimento Web com HTML, CSS, Javascript, Vue.js e React",
-    "version": "1.2.0",
+    "version": "2.0.0",
     "publisher": "jesielviana",
     "engines": {
-        "vscode": "^1.53.0"
+        "vscode": "^1.69.0"
     },
     "icon": "logo.png",
     "galleryBanner": {
@@ -17,9 +17,8 @@
         "html",
         "css",
         "styled-components",
-        "react",
-        "vue",
-        "javascript"
+        "javascript",
+        "typescript"
     ],
     "repository": {
         "url": "https://github.com/jesielviana/web-dev-extension-pack"
@@ -36,16 +35,15 @@
         "akamud.vscode-theme-onedark",
         "akamud.vscode-theme-onelight",
         "bungcip.better-toml",
-        "standard.vscode-standard",
-        "CoenraadS.bracket-pair-colorizer",
         "donjayamanne.githistory",
         "EditorConfig.EditorConfig",
-        "numso.prettier-standard-vscode",
-        "octref.vetur",
-        "znck.vue",
         "PKief.material-icon-theme",
         "shd101wyy.markdown-preview-enhanced",
-        "TimonVS.ReactSnippetsStandard",
-        "Zignd.html-css-class-completion"
-    ]
+        "Zignd.html-css-class-completion",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "ritwickdey.LiveServer",
+        "ms-vscode.vscode-typescript-next"
+    ],
+    "dependencies": {}
 }
