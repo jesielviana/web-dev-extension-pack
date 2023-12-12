@@ -1,49 +1,55 @@
 {
-    "name": "web-dev-extension-pack",
-    "displayName": "Web Dev Extension Pack",
-    "description": "Pacote de extensões básicas para desenvolvimento Web com HTML, CSS, Javascript, Vue.js e React",
-    "version": "2.0.0",
-    "publisher": "jesielviana",
-    "engines": {
-        "vscode": "^1.69.0"
-    },
-    "icon": "logo.png",
-    "galleryBanner": {
-        "color": "#fafafa",
-        "theme": "light"
-    },
-    "keywords": [
-        "web",
-        "html",
-        "css",
-        "styled-components",
-        "javascript",
-        "typescript"
-    ],
-    "repository": {
-        "url": "https://github.com/jesielviana/web-dev-extension-pack"
-    },
-    "homepage": "https://github.com/jesielviana/web-dev-extension-pack",
-    "bugs": {
-        "url": "https://github.com/jesielviana/web-dev-extension-pack/issues"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "ecmel.vscode-html-css",
-        "akamud.vscode-theme-onedark",
-        "akamud.vscode-theme-onelight",
-        "bungcip.better-toml",
-        "donjayamanne.githistory",
-        "EditorConfig.EditorConfig",
-        "PKief.material-icon-theme",
-        "shd101wyy.markdown-preview-enhanced",
-        "Zignd.html-css-class-completion",
-        "esbenp.prettier-vscode",
-        "dbaeumer.vscode-eslint",
-        "ritwickdey.LiveServer",
-        "ms-vscode.vscode-typescript-next"
-    ],
-    "dependencies": {}
+  "name": "web-dev-extension-pack",
+  "displayName": "Web Dev Extension Pack",
+  "description": "Pacote de extensões básicas para desenvolvimento Web com HTML, CSS, Javascript, Vue.js e React",
+  "version": "3.0.0",
+  "publisher": "jesielviana",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#fafafa",
+    "theme": "light"
+  },
+  "keywords": [
+    "web",
+    "html",
+    "css",
+    "styled-components",
+    "javascript",
+    "typescript"
+  ],
+  "repository": {
+    "url": "https://github.com/jesielviana/web-dev-extension-pack"
+  },
+  "homepage": "https://github.com/jesielviana/web-dev-extension-pack",
+  "bugs": {
+    "url": "https://github.com/jesielviana/web-dev-extension-pack/issues"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "dracula-theme.theme-dracula",
+    "akamud.vscode-theme-onedark",
+    "akamud.vscode-theme-onelight",
+    "PKief.material-icon-theme",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ritwickdey.LiveServer",
+    "rangav.vscode-thunder-client",
+    "EditorConfig.EditorConfig",
+    "donjayamanne.githistory",
+    "ecmel.vscode-html-css",
+    "Zignd.html-css-class-completion",
+    "oven.bun-vscode",
+    "ms-vscode.vscode-typescript-next",
+    "dsznajder.es7-react-js-snippets",
+    "christian-kohler.npm-intellisense",
+    "Prisma.prisma",
+    "tamasfe.even-better-toml",
+    "shd101wyy.markdown-preview-enhanced"
+  ],
+  "dependencies": {}
 }
